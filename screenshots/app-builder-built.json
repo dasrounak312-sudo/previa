@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PREVIA",
+      "hasCanvas": false,
+      "bodyTextLen": 2513,
+      "bodyTextHash": "6d6cc15371864258098a48267bab7ba33b4682575a5bbc5eaa5d95d0103207c2",
+      "bodyTextPrefix": "Skip to content PREVIA Symptom guide · not a diagnosis Home Symp",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PREVIA",
+      "hasCanvas": false,
+      "bodyTextLen": 2481,
+      "bodyTextHash": "9626ea94465be6dc431121dac8e90b833bc169d4d65572f25d81c5fcd980ff68",
+      "bodyTextPrefix": "Skip to content PREVIA Home Symptom check Conditions My results ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
